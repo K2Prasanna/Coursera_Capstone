@@ -1,0 +1,221 @@
+Venue Category,Classification_1,Classification_2
+Pizza Place,Eatery,Restaurant
+Yoga Studio,Fitness,Recreation
+Diner,Restaurant - General,Restaurant
+Coffee Shop,Eatery,Restaurant
+Gym,Fitness,Recreation
+Donut Shop,Eatery,Restaurant
+Seafood Restaurant,Restaurant - General,Restaurant
+Tennis Stadium,Sport,Recreation
+Department Store,Grocery,Commercial
+Supplement Shop,Grocery,Commercial
+Discount Store,Commercial,Commercial
+Pharmacy,Commercial,Commercial
+Video Game Store,Commercial,Commercial
+American Restaurant,Restaurant - American,Restaurant
+Bank,Business,Commercial
+Ice Cream Shop,Grocery,Commercial
+Miscellaneous Shop,Commercial,Commercial
+Steakhouse,Restaurant - American,Restaurant
+Sandwich Place,Eatery,Restaurant
+Big Box Store,Commercial,Commercial
+Clothing Store,Commercial,Commercial
+Shopping Mall,Commercial,Commercial
+Deli / Bodega,Grocery,Commercial
+Cocktail Bar,Hangout,Recreation
+Greek Restaurant,Restaurant - Europian,Restaurant
+Hotel,Business,Commercial
+Chinese Restaurant,Restaurant - Asian,Restaurant
+Bakery,Grocery,Commercial
+Museum,Exhibitions,Recreation
+Korean Restaurant,Restaurant - Asian,Restaurant
+Spa,Fitness,Recreation
+English Restaurant,Restaurant - Europian,Restaurant
+Tea Room,Eatery,Restaurant
+Garden Center,Recreational,Recreation
+Noodle House,Eatery,Restaurant
+Bike Shop,Commercial,Commercial
+Indie Movie Theater,Entertainment,Recreation
+New American Restaurant,Restaurant - American,Restaurant
+Roof Deck,Business,Commercial
+Hotpot Restaurant,Restaurant - American,Restaurant
+Salon / Barbershop,Commercial,Commercial
+Historic Site,Exhibitions,Recreation
+Spanish Restaurant,Restaurant - Europian,Restaurant
+Bubble Tea Shop,Eatery,Restaurant
+Restaurant,Restaurant - General,Restaurant
+Café,Eatery,Restaurant
+Italian Restaurant,Restaurant - Europian,Restaurant
+Burger Joint,Eatery,Restaurant
+Market,Grocery,Commercial
+Ramen Restaurant,Restaurant - Asian,Restaurant
+Park,Recreational,Recreation
+Pet Café,Eatery,Restaurant
+Breakfast Spot,Eatery,Restaurant
+Frozen Yogurt Shop,Eatery,Restaurant
+Wine Shop,Grocery,Commercial
+Pool,Fitness,Recreation
+Tapas Restaurant,Restaurant - Europian,Restaurant
+Scenic Lookout,Recreational,Recreation
+Liquor Store,Grocery,Commercial
+Caribbean Restaurant,Restaurant - American,Restaurant
+Indian Restaurant,Restaurant - Asian,Restaurant
+Mobile Phone Shop,Commercial,Commercial
+Farmers Market,Grocery,Commercial
+Wine Bar,Hangout,Recreation
+Mexican Restaurant,Restaurant - American,Restaurant
+Pet Store,Commercial,Commercial
+Bistro,Eatery,Restaurant
+Latin American Restaurant,Restaurant - American,Restaurant
+Veterinarian,Medical,Commercial
+Bar,Hangout,Recreation
+Beer Bar,Hangout,Recreation
+Thai Restaurant,Restaurant - Asian,Restaurant
+French Restaurant,Restaurant - Europian,Restaurant
+Cuban Restaurant,Restaurant - American,Restaurant
+Dance Studio,Entertainment,Recreation
+Taco Place,Eatery,Restaurant
+Performing Arts Venue,Entertainment,Recreation
+Vegetarian / Vegan Restaurant,Restaurant - General,Restaurant
+Boutique,Commercial,Commercial
+Hotel Bar,Hangout,Recreation
+Cosmetics Shop,Commercial,Commercial
+Burrito Place,Eatery,Restaurant
+Chocolate Shop,Grocery,Commercial
+Art Gallery,Exhibitions,Recreation
+Optical Shop,Commercial,Commercial
+Bookstore,Commercial,Commercial
+Japanese Restaurant,Restaurant - Asian,Restaurant
+Jazz Club,Entertainment,Recreation
+Gym / Fitness Center,Fitness,Recreation
+Grocery Store,Grocery,Commercial
+Shoe Store,Commercial,Commercial
+Sculpture Garden,Exhibitions,Recreation
+Outdoors & Recreation,Recreational,Recreation
+Waterfront,Recreational,Recreation
+School,Academic,Commercial
+Residential Building (Apartment / Condo),Residence,Commercial
+Baseball Field,Sport,Recreation
+Playground,Sport,Recreation
+Bus Line,Transit,Commercial
+Dog Run,Entertainment,Recreation
+Metro Station,Transit,Commercial
+Supermarket,Grocery,Commercial
+Southern / Soul Food Restaurant,Restaurant - General,Restaurant
+Movie Theater,Entertainment,Recreation
+Bagel Shop,Grocery,Commercial
+Gift Shop,Commercial,Commercial
+Juice Bar,Eatery,Restaurant
+Pub,Hangout,Recreation
+Mediterranean Restaurant,Restaurant - Europian,Restaurant
+Peruvian Restaurant,Restaurant - American,Restaurant
+Trail,Recreational,Recreation
+Nail Salon,Commercial,Commercial
+Plaza,Business,Commercial
+Smoke Shop,Commercial,Commercial
+Salad Place,Eatery,Restaurant
+Sporting Goods Shop,Commercial,Commercial
+Szechuan Restaurant,Restaurant - Asian,Restaurant
+Cycle Studio,Fitness,Recreation
+Tailor Shop,Commercial,Commercial
+Sushi Restaurant,Restaurant - Asian,Restaurant
+Hawaiian Restaurant,Restaurant - American,Restaurant
+Shanghai Restaurant,Restaurant - Asian,Restaurant
+Jewish Restaurant,Restaurant - Europian,Restaurant
+Speakeasy,Hangout,Recreation
+Lounge,Hangout,Recreation
+Theater,Entertainment,Recreation
+Asian Restaurant,Restaurant - Asian,Restaurant
+Nightclub,Hangout,Recreation
+Cupcake Shop,Eatery,Restaurant
+Fish Market,Grocery,Commercial
+Men's Store,Commercial,Commercial
+Snack Place,Eatery,Restaurant
+Gourmet Shop,Grocery,Commercial
+Pilates Studio,Commercial,Commercial
+Dessert Shop,Grocery,Commercial
+Beer Store,Grocery,Commercial
+Moroccan Restaurant,Restaurant - Europian,Restaurant
+Scandinavian Restaurant,Restaurant - Europian,Restaurant
+Hot Dog Joint,Eatery,Restaurant
+Vietnamese Restaurant,Restaurant - Asian,Restaurant
+Cheese Shop,Grocery,Commercial
+Swiss Restaurant,Restaurant - Europian,Restaurant
+Hobby Shop,Commercial,Commercial
+Filipino Restaurant,Restaurant - Asian,Restaurant
+Women's Store,Commercial,Commercial
+Argentinian Restaurant,Restaurant - American,Restaurant
+Poke Place,Eatery,Restaurant
+Indie Theater,Entertainment,Recreation
+Gym Pool,Fitness,Recreation
+Animal Shelter,Commercial,Commercial
+History Museum,Exhibitions,Recreation
+Karaoke Bar,Hangout,Recreation
+Martial Arts Dojo,Sport,Recreation
+Arts & Crafts Store,Commercial,Commercial
+Art Museum,Exhibitions,Recreation
+Ski Shop,Commercial,Commercial
+Accessories Store,Commercial,Commercial
+Candy Store,Eatery,Restaurant
+Gastropub,Hangout,Recreation
+Board Shop,Commercial,Commercial
+Austrian Restaurant,Restaurant - Europian,Restaurant
+Outdoor Sculpture,Exhibitions,Recreation
+Food Truck,Eatery,Restaurant
+Tennis Court,Sport,Recreation
+Comedy Club,Entertainment,Recreation
+Thrift / Vintage Store,Commercial,Commercial
+Bike Rental / Bike Share,Commercial,Commercial
+Irish Pub,Hangout,Recreation
+Food Court,Eatery,Restaurant
+Cooking School,Academic,Commercial
+BBQ Joint,Hangout,Recreation
+Memorial Site,Exhibitions,Recreation
+Building,Residence,Commercial
+Boat or Ferry,Transit,Commercial
+Auditorium,Entertainment,Recreation
+Monument / Landmark,Exhibitions,Recreation
+Doctor's Office,Medical,Commercial
+Jewelry Store,Commercial,Commercial
+Falafel Restaurant,Restaurant - Europian,Restaurant
+Event Space,Entertainment,Recreation
+Rock Club,Sport,Recreation
+Himalayan Restaurant,Restaurant - Asian,Restaurant
+Molecular Gastronomy Restaurant,Restaurant - Europian,Restaurant
+General Entertainment,Entertainment,Recreation
+Antique Shop,Commercial,Commercial
+Australian Restaurant,Restaurant - Asian,Restaurant
+Furniture / Home Store,Commercial,Commercial
+Fountain,Exhibitions,Recreation
+Pet Service,Commercial,Commercial
+Basketball Court,Sport,Recreation
+Heliport,Transit,Commercial
+Harbor / Marina,Recreational,Recreation
+Gas Station,Commercial,Commercial
+German Restaurant,Restaurant - Europian,Restaurant
+Toy / Game Store,Commercial,Commercial
+Kebab Restaurant,Restaurant - Asian,Restaurant
+Comfort Food Restaurant,Restaurant - General,Restaurant
+African Restaurant,Restaurant - General,Restaurant
+Amphitheater,Entertainment,Recreation
+Whisky Bar,Hangout,Recreation
+Garden,Recreational,Recreation
+Empanada Restaurant,Restaurant - American,Restaurant
+Arcade,Commercial,Commercial
+Tanning Salon,Commercial,Commercial
+Multiplex,Entertainment,Recreation
+Flower Shop,Commercial,Commercial
+Boxing Gym,Sport,Recreation
+Newsstand,Commercial,Commercial
+Exhibit,Exhibitions,Recreation
+Concert Hall,Entertainment,Recreation
+Office,Business,Commercial
+Music Store,Commercial,Commercial
+Other Great Outdoors,Recreational,Recreation
+Skate Park,Sport,Recreation
+Malay Restaurant,Restaurant - Asian,Restaurant
+Cantonese Restaurant,Restaurant - Europian,Restaurant
+Record Shop,Commercial,Commercial
+Organic Grocery,Grocery,Commercial
+Dive Bar,Hangout,Recreation
+Bridge,Transit,Commercial
